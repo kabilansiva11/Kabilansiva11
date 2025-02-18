@@ -38,24 +38,3 @@ ________________________________________________________________________________
 📍. Bangalore, India | 🔗 Open to collaboration & career opportunities.  
 
 ⚡ Fun Fact:I treat every IT challenge like a puzzle—there’s always a solution!  
-
-
-
-
-
-
-
-Languages
-JavaScript (ES6+), TypeScript
-HTML5, CSS3
-Python (for scripting and automation)
-Frameworks & Libraries
-React.js, Next.js
-Node.js, Express.js
-Bootstrap, Tailwind CSS
-Databases
-MongoDB, SQL
-Tools & Platforms
-Git, GitHub, VS Code, Postman
-Docker, Kubernetes
-Figma (for UI/UX prototyping)
