@@ -38,3 +38,4 @@ ________________________________________________________________________________
 📍. Bangalore, India | 🔗 Open to collaboration & career opportunities.  
 
 ⚡ Fun Fact:I treat every IT challenge like a puzzle—there’s always a solution!  
+__________________________________________________________________________________________________________________________
