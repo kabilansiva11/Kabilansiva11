@@ -12,7 +12,21 @@ ________________________________________________________________________________
             src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>&nbsp;&nbsp;
    <a href="mailto:Skabilan170@gmail.com"><img src="https://img.icons8.com/color/48/000000/email--v2.png" /></a>
 </div>
-👨‍💻 About me
+
+
+## Operating Systems & Tools
+<div align="center">
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+  </div>
+  
+## About me
 
 🚀 Networking & IT Support Enthusiast | System Administrator | Troubleshooter
 
