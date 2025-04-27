@@ -61,4 +61,28 @@ ________________________________________________________________________________
 📍. Bangalore, India | 🔗 Open to collaboration & career opportunities.  
 
 ⚡ Fun Fact:I treat every IT challenge like a puzzle—there’s always a solution!  
+
+<div class="flex justify-center gap-8 text-4xl">
+      <!-- Call -->
+      <a href="tel:+917010950262" title="Call" class="text-green-500 hover:scale-125 transition duration-300">
+        <i class="fa fa-phone"></i>
+      </a>
+      <!-- Email -->
+      <a href="mailto:kabilansiva609@gmail.com" title="Email" class="text-yellow-400 hover:scale-125 transition duration-300">
+        <i class="fa fa-envelope"></i>
+      </a>
+   <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/kabilansiva11/" target="_blank" title="LinkedIn" class="text-blue-600 hover:scale-125 transition duration-300">
+        <i class="fab fa-linkedin"></i>
+      </a>   <!-- Instagram -->
+      <a href="https://www.instagram.com/kabilansiva11/"target="_blank" title="Instagram" class="hover:scale-125 transition duration-300" style="color: #E1306C;">
+        <i class="fab fa-instagram"></i>
+      </a>    <!-- GitHub -->
+      <a href="https://github.com/kabilansiva11"      target="_blank" title="GitHub" class="text-gray-300 hover:scale-125 transition duration-300">
+        <i class="fab fa-github"></i>
+      </a>
+   <!-- Twitter / X -->
+      <a href="https://twitter.com/KabilanSiva11"      target="_blank" title="X" class="text-blue-400 hover:scale-125 transition duration-300">
+        <i class="fab fa-x-twitter"></i>
+      </a>    </div>
 __________________________________________________________________________________________________________________________
